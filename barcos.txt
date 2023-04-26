@@ -1,0 +1,7 @@
+Comercial;1234;Poseidon;80
+Comercial;2345;Triton;30
+Recreo;3456;Almeja;2
+Comercial;4567;Tsunami;110
+Recreo;5678;Berberecho;4
+Recreo;6789;Mejillon;3
+Comercial;7890;Ballenato;50
